@@ -10,7 +10,6 @@ Machine learning models can map the data collected from various sources to the t
 The goal of the project is to detect whether a transaction is a normal payment or a fraud.
 
 ### Data Set
-The Data set can be downloaded from this link
 
 The dataset contains two-day transactions by European cardholders during September 2013.
 
@@ -18,4 +17,4 @@ The dataset contains 284,807 transactions out of which 492 were fraud cases
 
 Due to the privacy reasons, the dataset has been anonymized. The feature names have also been changed (V1, V2, V3, etc.). Hence, you will not gain much insights from visualization
 
-By the end of the project, the learners will be able to learn the approaches required for fraud modeling
+By the end of the project, the learners will be able to learn the approaches required for fraud modeling.
